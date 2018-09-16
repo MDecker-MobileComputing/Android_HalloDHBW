@@ -4,6 +4,10 @@ Source code for simple "Hello World!"-App (just shows static text) as project fo
 
 <br>
 
+UI texts are in German only.
+
+<br>
+
 ----
 ## Screenshots
 
