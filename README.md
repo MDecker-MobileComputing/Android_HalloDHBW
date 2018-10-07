@@ -1,10 +1,10 @@
 # Android-App "Hallo DHBW"
 
-Source code for simple "Hello World!"-App (just shows static text) as project for "Android Studio".
+Source code for simple "Hello World!" app (just shows static text) as project for *Android Studio*.
 
 <br>
 
-UI texts are in German only.
+UI texts and JavaDoc comments are in German only.
 
 <br>
 

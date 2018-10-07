@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="de.mide.hallodhbw.MainActivity">
+    tools:context=".MainActivity">
+
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/text_hallo_dhbw"
+        android:text="Hallo DHBW!"
         android:layout_centerInParent="true"
         android:textSize="30sp" />
+
+    <!--
+         Kopier-Vorlage für diese Layout-Datei:
+         https://gist.github.com/mide42/f3c37a917ec6938951b3be22b8e745b9
+    -->
 
 </RelativeLayout>
