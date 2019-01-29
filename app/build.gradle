@@ -6,8 +6,8 @@ android {
         applicationId "de.mide.hallodhbw"
         minSdkVersion 14
         targetSdkVersion 28
-        versionCode 2
-        versionName "1.1 (Oktober 2018)"
+        versionCode 3
+        versionName "1.3 (Januar 2019)"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
