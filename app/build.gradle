@@ -5,10 +5,8 @@ android {
     buildToolsVersion "29.0.2"
     defaultConfig {
         applicationId "de.mide.hallodhbw"
-        minSdkVersion 15
+        minSdkVersion 16
         targetSdkVersion 29
-        versionCode 6
-        versionName "1.5 (September 2019)"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
