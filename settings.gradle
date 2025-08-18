@@ -19,20 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HalloDHBW"
+rootProject.name = "Hallo DHBW"
 include ':app'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

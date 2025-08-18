@@ -2,7 +2,8 @@
 
 <br>
 
-Source code for simple "Hello World!" app (just shows static text) as project for *Android Studio*.
+Der Quellcode für eine einfache "Hello World!"-App (zeigt nur statischen Text) als Projekt für 
+*Android Studio*.
 
 <br>
 
@@ -18,7 +19,7 @@ UI texts and JavaDoc comments are in German only.
 
 ![Screenshot 1](screenshot_1.png)
 
-Screenshot was taken from emulator.
+Screenshot aus Emulator
 
 <br>
 

@@ -1,7 +1,8 @@
-package de.mide.hallodhbw;
+package de.mide.android.hallodhbw;
 
 import android.app.Activity;
 import android.os.Bundle;
+
 
 public class MainActivity extends Activity {
 
@@ -12,9 +13,3 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
     }
 }
-
-
-
-
-
-

@@ -1,4 +1,4 @@
-package de.mide.hallodhbw;
+package de.mide.android.hallodhbw;
 
 import org.junit.Test;
 
